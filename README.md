@@ -1,4 +1,4 @@
-# 3DP-DriveTrain
+# 3D Printed FTC Drivetrain
 A Fully 3D Printed FTC Drivetrain
 
 ----
