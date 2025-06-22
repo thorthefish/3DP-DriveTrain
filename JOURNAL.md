@@ -144,6 +144,9 @@ Strain:
 
 ----
 
+I also redesigned the motor cover/brace:
+
+![Fusion360_h0JIOzbhoG](https://github.com/user-attachments/assets/1de62919-f570-492b-ba34-477da01b59bb)
 
 
 
