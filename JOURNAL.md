@@ -22,7 +22,7 @@ After that, I went onto the wheel placement, and I just made sure that they had 
 
 ![Fusion360_DaYXXIthQX](https://github.com/user-attachments/assets/f45ab18f-624d-4097-8df4-231529d1f1d3)
 
-## Modeling?
+## Modeling
 
 Then, I added the Grid Munting system, all alligned on 8mm grid to work with gobilda parts (What we use for the most part)
 
@@ -71,26 +71,78 @@ This is the coolest part by far, its a bunch of simulations and the coolest look
 
 I did several simulations in fusion to test if this design could acctualy take the forces it would expirience in competitions, so I decided on doing a first simulation of forces pushing the two halves appart from the top.
 
+----
+
+Setup: 
+
+
 ![Fusion360_VxilaGZbVu](https://github.com/user-attachments/assets/8e3d0988-590f-4ae7-b2da-babff7319531)
+
+Displacement:
+
 
 ![Fusion360_l8kNUF9FA9](https://github.com/user-attachments/assets/d9fc49c3-0b10-405f-ae30-002d705f7a58)
 
+Stress:
+
+
 ![Fusion360_3vuXtYZTeW](https://github.com/user-attachments/assets/f8609b24-7e04-403c-84a6-578e279bf98f)
+
+----
 
 With less than half a mm from 100 neutons, this is more than satisfactory. for lateral stresses, this drivetrain will be more than capable of withstanding most anything, especialy because plastics, and PLA in particular are incredibly impact resistand. If necisary we could try to print it in TPU, just for that near invulrability
 
 Then the vertical loads:
 
+----
+
+Setup:
+
 ![Fusion360_K4OMfoFxmH](https://github.com/user-attachments/assets/08fbe2fb-8ccb-4291-88db-646f9bcda432)
+
+Displacement:
+
 
 ![Fusion360_Ucz5qTIiVf](https://github.com/user-attachments/assets/1d9a4ec3-25e4-4e07-81df-9d068416f415)
 
+Stress:
+
+
 ![Fusion360_LewLiQoi0W](https://github.com/user-attachments/assets/c23dc5e9-a2a9-4203-a005-b121b51a04e3)
+
+----
 
 Again, more than enough. This load was 125 N, and with that little deflection, this will be a plenty rigid, and much mor importantly, an incredibly strong chassis.
 
+# 6-22-2025 - 3 hours
+## BOM
+
+I spent some time just getting the BOM formmated, and getting all of the parts loaded in, and wow did I underestimate the cost, the preliminary cost was around $200, but after taking off some of the bearings, and estimating what we would have avalable, I got the total down to around $150, but that is still way to expensive, so i decided to try and eliminate the motor clamping mounts first, as they were $40 alone.
 
 
+## CAD & FEA
+
+I just modeled a basic replacement, that has an extra set of holes to bolt them togeather.
+
+![F2KI6HQ9Af](https://github.com/user-attachments/assets/af78f415-7f69-4303-808f-2500fec769c6)
+
+Then I just ran a couple of simulations to eliminate weakpoints, and ended up with very promising results.
+
+----
+
+Setup:
+
+![Fusion360_rUoUMmScyy](https://github.com/user-attachments/assets/ec75362e-5d60-413c-a890-2d7a3279877d)
+
+Displacement:
+
+![Fusion360_jduuymUyhZ](https://github.com/user-attachments/assets/9c0826fb-9f15-4cd4-90d2-93ece7af0ef8)
+
+Strain:
+
+![Fusion360_fNPN24BdQP](https://github.com/user-attachments/assets/ddb23791-7943-486f-93b2-f82c0486f262)
+
+----
 
 
 
