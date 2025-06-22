@@ -18,7 +18,7 @@ This is A drivetrain using 3d printed parts wherever possible. It is compatable 
 - Mounting, Top rails for any modules immaginable, grids on wass for anything form team markers, odo pods, to linear slides
 - Incredibly light, uses around 1kg of filament for an entire chassis
 
-#CAD
+# CAD
 
 ![Fusion360_uBIizt1Rju](https://github.com/user-attachments/assets/f876338e-98c8-4dfe-8316-df601fb08057)
 
@@ -37,7 +37,26 @@ The incredible rigidity of PLA is acctualy crucial to this, as other filaments w
 ![Fusion360_3vuXtYZTeW](https://github.com/user-attachments/assets/f8609b24-7e04-403c-84a6-578e279bf98f)
 
 
+# BOM
 
-
-
-
+|3DP DT|# Needed|# to Purchase|Price /unit|Price Total|Source|
+|-|-|-|-|-|-|
+||||||
+|To Buy| | | | | |
+||||||
+|Filament 2kg |1 |1 |26 |26 |https://www.amazon.com/ELEGOO-Filament-Dimensional-Accuracy-Cardboard/dp/B0BM7465PB?crid=1V96P3UWTHHNJ&dib=eyJ2IjoiMSJ9.1Fn_R5F-61XRyjBmi3bX9QpDcYpC1ku3B42mAqRVdUik20vxwTaEMwCK2Q_UU7o7XiUkqONmjk_vzQYkzMu-FEzD_Ju6jjVb_jZGQaNfUQcfXFQrdXAtj77JjPevgtrSmuGx4yYJygCM0ORzdL7y4SLtadSdoRUbP1hvLZVstYpO7B9N_9JPuhjnS-ZjzcJS0TBME44lTW_tGegnzGiTB9zvA_-HOF7CuEgoU6mFTJk.hQqZCMfA524nHNPQFyeyifXmMtj16eD834j_mznnHzU&dib_tag=se&keywords=pla+2kg+elegoo&qid=1750610402&sprefix=pla+2kg+elgoo%2Caps%2C154&sr=8-3|
+|Timing belts - HTD 3 100T |4 |4 |7 |28 |https://www.gobilda.com/3403-series-3mm-htd-pitch-timing-belt-15mm-width-300mm-pitch-length-100-tooth/ |
+|Bearings - 14mm OD 8mm ID Flanged 2pc |2 |2 |4 |8 |https://www.gobilda.com/1611-series-flanged-ball-bearing-8mm-id-x-14mm-od-5mm-thickness-2-pack/ |
+|Shafts - 72mm REX |4 |4 |5 |20 |https://www.gobilda.com/2106-series-stainless-steel-rex-shaft-8mm-diameter-72mm-length/ |
+|REX Sonic Hubs |4 |4 |8 |32 |https://www.gobilda.com/1309-series-sonic-hub-8mm-rex-bore/ |
+||||||
+|Alredy Owned | | | | | |
+|Hubs |2 |N/A |N/A | | |
+|Battery |1 |N/A |N/A | | |
+|Odo Pods |2 |N/A |N/A | | |
+|Motors |4 |N/A |N/A | | |
+|Wiring |Lots |N/A |N/A | | |
+|Wheels |4 |N/A |N/A | | |
+|M4 Screws |Lots |N/A |N/A | | |
+||||||
+|Grand Total:| $124 |||
