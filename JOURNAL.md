@@ -9,7 +9,7 @@ Description: A FTC Drivetrain using as many 3d printed parts to crate the most c
 
 Created: 6-21-2025
 
-Time spent: 24 hours
+Time spent: 25 hours
 ```
 ----
 
@@ -153,6 +153,15 @@ I also redesigned the motor cover/brace:
 
 Started a render on fusion, idk how long imma give it.
 
+#6/25/2025 - 1 hour
+
+##Repo Work
+
+Added a bunch of cad and pictures to the repo. Also finnialy got a good render without having the front blury, just had to crank up the focal legnth of the render, so i just let that go in the background, and let it go for 1 hour exact (cuz even numbers r just happy).
+
+anyway heres the render:
+
+![render_1](https://github.com/user-attachments/assets/439e5e1e-f13c-4c6e-a006-2075ca966abf)
 
 
 
