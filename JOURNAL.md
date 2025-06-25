@@ -8,6 +8,8 @@ Author: ryan d
 Description: A FTC Drivetrain using as many 3d printed parts to crate the most customizable, durable, and CHEAP as possible
 
 Created: 6-21-2025
+
+Time spent: 24 hours
 ```
 ----
 
