@@ -38,7 +38,12 @@ The incredible rigidity of PLA is acctualy crucial to this, as other filaments w
 
 ![Fusion360_3vuXtYZTeW](https://github.com/user-attachments/assets/f8609b24-7e04-403c-84a6-578e279bf98f)
 
+----
+# Assembly
 
+You need to print two instances of the DT_Wheel_Hub files each, they each go on opposite corners, the two files are mirrored copies of the other. Print one instance of the brace, and attach it with 15 mm M4 bolts, the bottoms should be flush and it should go in the direct middle. Refer to cad if needed. The bolts do not need to be in a specific location, just try to get at least 8 points of contact per side.
+
+----
 # BOM
 
 |3DP DT|# Needed|# to Purchase|Price /unit|Price Total|Source|
