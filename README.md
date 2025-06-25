@@ -3,7 +3,8 @@ A Fully 3D Printed FTC Drivetrain
 
 ----
 
-note: some individual cad files are missing. I will put them in as soon as windows gets unbricked on my pc
+![render_1](https://github.com/user-attachments/assets/fcdd35b5-f74f-4c18-9613-04df85b1f465)
+
 
 # WHY???
 
