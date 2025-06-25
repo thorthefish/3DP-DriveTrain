@@ -164,5 +164,24 @@ anyway heres the render:
 ![render_1](https://github.com/user-attachments/assets/439e5e1e-f13c-4c6e-a006-2075ca966abf)
 
 
+Might end up playing with the grond effects, but this looks just fine for now.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
