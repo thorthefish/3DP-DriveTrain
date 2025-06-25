@@ -3,6 +3,8 @@ A Fully 3D Printed FTC Drivetrain
 
 ----
 
+note: some individual cad files are missing. I will put them in as soon as windows gets unbricked on my pc
+
 # WHY???
 
 The reason behind this project is my dream for a good, customisable, and strong drivetrain. Whenever it is brought up, it usualy leads to immidiate dismissal, so this is to prove to all teams that a 3D Printed chassis is a good choice for a chassis. This proves that 3D printing is strong enough to compete with aluminum, light enough to compete with carbon fiber, and more versitle than either.

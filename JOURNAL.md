@@ -8,6 +8,8 @@ Author: ryan d
 Description: A FTC Drivetrain using as many 3d printed parts to crate the most customizable, durable, and CHEAP as possible
 
 Created: 6-21-2025
+
+Time spent: 24 hours
 ```
 ----
 
@@ -114,7 +116,7 @@ Stress:
 
 Again, more than enough. This load was 125 N, and with that little deflection, this will be a plenty rigid, and much mor importantly, an incredibly strong chassis.
 
-# 6-22-2025 - 3 hours
+# 6-22-2025 - 6 hours
 ## BOM
 
 I spent some time just getting the BOM formmated, and getting all of the parts loaded in, and wow did I underestimate the cost, the preliminary cost was around $200, but after taking off some of the bearings, and estimating what we would have avalable, I got the total down to around $150, but that is still way to expensive, so i decided to try and eliminate the motor clamping mounts first, as they were $40 alone.
@@ -149,7 +151,7 @@ I also redesigned the motor cover/brace:
 ![Fusion360_h0JIOzbhoG](https://github.com/user-attachments/assets/1de62919-f570-492b-ba34-477da01b59bb)
 
 
-
+Started a render on fusion, idk how long imma give it.
 
 
 
